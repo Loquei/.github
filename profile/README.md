@@ -1,6 +1,6 @@
-# Quem somos?
-
 ![Logo Loquei](https://github.com/Loquei/.github/blob/main/profile/logo-loquei.png)
+
+# Quem somos?
 
 Somos a Loquei e buscamos revolucionar a maneira como você acessa e compartilha itens.
 
